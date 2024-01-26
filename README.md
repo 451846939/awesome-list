@@ -29,6 +29,8 @@ awesome-list is a list of awesome things curated by the LearningOS community.
 
 ### Rust for Linux驱动
 
+- [rust-for-linux github](https://github.com/rcore-os/rust-for-linux)
+
 ### Hypervisor虚拟化
 
 ### ChenLongOS辰龙操作系统发行版
